@@ -9,7 +9,12 @@ class LandingPage extends Component {
   render() {
     // Create a div with a class of container
     return (
+      <div>
+      
       <span>TODO delete me</span>
+      <div> My Changes... </div>
+      
+      </div>
     )
   }
 }
